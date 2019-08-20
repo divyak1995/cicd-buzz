@@ -11,7 +11,7 @@ app = Flask(__name__)
 @app.route("/")
 def generate_buzz():
     """generate flask wrapper"""
-    page = '<html><body><h1>'
+    page = '<html><body background="./images/calm-bg.jpg text-align:center" = ><h1>'
     page += generator.generate_buzz()
     page += '</h1></body></html>'
     return page
