@@ -1,4 +1,4 @@
-CI-CD
+CI/CD App
 
 https://damp-sea-35545.herokuapp.com/
 
